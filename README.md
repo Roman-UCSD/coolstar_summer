@@ -1,2 +1,3 @@
-# coolstar_summer
-Materials for Cool Star Lab summer research participants in 2021
+# Cool Star Lab summer research 2020
+
+We will use this GitHub repository to share code, Jupyter notebooks and slides from the workshops.
